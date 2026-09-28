@@ -19,15 +19,5 @@ MySQL
 - Delete Task
 - Update Status
 
-### Tech Stack
-- Laravel 11
-- MySQL / SQLite
-- Bootstrap 5
-
-### How to Run 
-```bash
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
+### Screenshot
+![Task Manager Screenshot](Screenshot_20260926_175453_com.android.chrome.jpg)
