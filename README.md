@@ -24,7 +24,7 @@ MySQL
 - MySQL / SQLite
 - Bootstrap 5
 
-### How to Run (for Sir)
+### How to Run 
 ```bash
 composer install
 cp .env.example .env
